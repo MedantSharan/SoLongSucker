@@ -1,4 +1,4 @@
-# Chip Game
+# So Long Sucker (SLS) - A Strategy Game Made by John Nash
 
 This is a Pygame implementation of a turn-based strategy game So Long Sucker (developed by John Nash among others) where players place chips in rows and aim to capture other players' chips. The game continues until only one player remains.
 However, currently this is not a complete implementation of the game. The game involves making and breaking informal coalitions and has a chip transfer system which makes the game semi-sequential and way more complex. This chip transfer system has not been implemented yet.
